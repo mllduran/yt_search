@@ -7,7 +7,7 @@ import SearchBar from './components/search_bar';
 import VideoDetail from './components/video_detail';
 import VideoList from './components/video_list';
 
-const API_KEY = 'AIzaSyDa8WCCeIuuMEsdTV-ECAgDJNse05P5ryk';
+const API_KEY = '';
 
 // Create a new componenet. This component should produce some html
 
